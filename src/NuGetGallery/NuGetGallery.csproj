@@ -1512,6 +1512,7 @@
     <Content Include="Scripts\d3.v3.min.js" />
     <Content Include="Areas\Admin\Views\SupportRequest\Index.cshtml" />
     <Content Include="Areas\Admin\Views\SupportRequest\Admins.cshtml" />
+    <None Include="Properties\PublishProfiles\release-jhb.pubxml" />
     <None Include="Scripts\jquery-1.11.0.intellisense.js" />
     <Content Include="Scripts\jquery-1.11.0.js" />
     <Content Include="Scripts\jquery-1.11.0.min.js" />

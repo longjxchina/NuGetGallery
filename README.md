@@ -6,6 +6,12 @@
 This is an implementation of the NuGet Gallery and API. This serves as the back-end and community 
 website for the NuGet client. For information about the NuGet project, visit the [Home repository](https://github.com/nuget/home).
 
+## 使用 ##
+修改
+> c:\windows\system32\drivers\etc\hosts
+> 
+> 添加行：220.112.201.61 nuget-jhb.org
+
 ## Build and Run the Gallery in (arbitrary number) easy steps
 
 1. Prerequisites. Install these if you don't already have them:
